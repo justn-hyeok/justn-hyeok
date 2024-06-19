@@ -18,7 +18,6 @@
 ## 연락처
 
 - **이메일:** [justn.hyeok@gmail.com](mailto:justn.hyeok@gmail.com)
-- **블로그:** [블로그]((https://velog.io/@justn-hyeok/posts))
 - **인스타그램:** [@wnsgurjh_](https://www.instagram.com/wnsgurjh_)
 
 제 프로필을 방문해주셔서 감사합니다 !
