@@ -8,6 +8,7 @@
 
 - **이메일:** [justn.hyeok@gmail.com](mailto:justn.hyeok@gmail.com)
 - **인스타그램:** [@wnsgurjh_](https://www.instagram.com/wnsgurjh_)
+- **벨로그:** [@justn-hyeok](https://velog.io/@justn-hyeok/posts)
 
 제 프로필을 방문해주셔서 감사합니다 !
 열심히 성장하겠습니다! 🚀
