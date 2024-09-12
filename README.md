@@ -17,4 +17,3 @@
 ## My Baekjoon
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={koochangwin}&theme=cold)
-<img src="http://mazandi.herokuapp.com/api?handle={koochangwin}&theme=warm"/>
