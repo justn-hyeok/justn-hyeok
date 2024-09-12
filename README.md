@@ -13,3 +13,7 @@
 
 제 프로필을 방문해주셔서 감사합니다 !
 열심히 성장하겠습니다! 🚀🚀
+
+## 알고리즘
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koochangwin)](https://solved.ac/koochangwin/)
