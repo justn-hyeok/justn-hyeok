@@ -2,8 +2,8 @@
 
 ## 소개 justn-hyeok
 
-안녕하세요! 저는 프론트엔드와 AI 개발에 관심이 많습니다. 이제 막 개발을 시작했고, 배우고 성장하는 것을 좋아합니다 ~ 
-현재 배우는 것 : 리액트를 배우고 있어요.
+안녕하세요! 저는 프론트엔드와 AI 개발에 관심이 많습니다. 이제 막 개발을 시작했고, 배우고 성장하는 것을 좋아합니다 ~  
+현재 배우는 것 : 리액트와 파이썬에 대해 배우고 있어요.
 
 ## 연락처
 
@@ -17,3 +17,4 @@
 ## My Baekjoon
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={koochangwin}&theme=cold)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koochangwin)](https://solved.ac/koochangwin/)
