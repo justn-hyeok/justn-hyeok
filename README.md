@@ -16,5 +16,4 @@
 
 ## My Baekjoon
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={koochangwin}&theme=cold)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koochangwin)](https://solved.ac/koochangwin/)
