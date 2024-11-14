@@ -17,3 +17,4 @@
 ## My Baekjoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koochangwin)](https://solved.ac/koochangwin/)
+<a href="https://github.com/justn-hyeok"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justn-hyeok&layout=compact&hide_border=true"  /></a>
