@@ -1,22 +1,28 @@
-# 환영합니다! 
+<div align="center">
+  
+  ## HWANG JUN HYEOK
+  
+  <strong>I'm learning Frontend Development.</strong>
+  <br/><br/>
+  #### Experienced
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 
-## 소개 justn-hyeok
-
-안녕하세요! 저는 프론트엔드에 관심이 있습니다. 이제 막 개발을 시작했고, 성장을 즐기면서 일어서고 있습니다.
-현재 배우는 것 : 리액트를 이용하여 프로젝트를 해보고 있어요.
-
-## 연락처
-
-- **이메일:** [justn.hyeok@gmail.com](mailto:justn.hyeok@gmail.com)
-- **인스타그램:** [@wnsgurjh_](https://www.instagram.com/wnsgurjh_)
-- **벨로그:** [@justn-hyeok](https://velog.io/@justn-hyeok/posts)
-
-제 프로필을 방문해주셔서 감사합니다 !
-열심히 성장하겠습니다! 🚀🚀
-
-## My Baekjoon
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koochangwin)](https://solved.ac/koochangwin/)
-<a href="https://github.com/justn-hyeok"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justn-hyeok&layout=compact&hide_border=true"  /></a>
-
-# 나중에 좀 더 완벽해져서 리드미 쓰겠습니다.
+  #### Learning or Interested In
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"> 
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+  
+  <br/><br/>
+  
+  #### Today as well, KEEP LEARNING!
+</div>
