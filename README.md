@@ -1,10 +1,7 @@
-<div align="center">
-  
-  ## HWANG JUN HYEOK
-  
-  <strong>An Odyssey for the Horizon</strong>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
-  
-  #### Today as well, KEEP LEARNING!
-</div>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/justn-hyeok"
+  width="600"
+  height="300"
+/>
+</a>
