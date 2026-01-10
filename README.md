@@ -1,4 +1,5 @@
-i use react & next.js, constantly learning and building in 🇰🇷 bssm
+Typing my romantic things, in my world  
+@ 🇰🇷 BSSM
 
 ---
 
