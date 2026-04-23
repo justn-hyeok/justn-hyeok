@@ -1,26 +1,32 @@
-```
-Now you're seeing me, I'm Justn !
-```
+<h1 align="center">황준혁ㅣJustn</h1>
+<p align="center"><strong>Thinking about flow, systems, and how products actually work.</strong></p>
 
-<b>Frontend Developer</b> who builds things that actually run.  
-React · Next.js · TypeScript · AI Tooling  
-  
-<b>AND I LOVE DX 💌</b>
- 
+<br>
+
 ---
- 
-#### What I'm Working On
- 
-- **[CodeAgora](https://github.com/bssm-oss/CodeAgora)** — Multi-LLM code review pipeline. 3-layer orchestration, React SPA dashboard, real-time WebSocket streaming.
-- **[Jagalchi](https://github.com/gajaedev/jagalchi-client)** — Developer learning roadmap platform. React Flow editor, Jotai state sync, 8 GitHub Actions CI/CD.
-- **[maruruuu](https://github.com/Bamdoliro/maruruuu)** — School admission platform serving 131+ real users. Legacy modernization & critical hotfix.
-- **[syncingsh](https://github.com/bssm-oss/syncingsh)** — Ephemeral P2P collaborative notepad. Yjs + WebRTC, no server, no login.
 
-#### What I Explore
- 
-AI-assisted dev workflows · CLI orchestration · automation pipelines · open source
+<p align="center"><b>Frontend-focused Product Engineer.</b> Building scalable systems, dev workflows, and products that actually ship.</p>
+<p align="center">Focused on <b>DX, automation, and system design</b>. React · Next.js · TypeScript · AI Tooling</p>
 
-#### Where To Find Justn
+---
+<br>
+
+### What I Build
+
+- **[CodeAgora](https://github.com/bssm-oss/CodeAgora)** — Multi-Agent Debate code review system with real-time streaming and orchestration.
+- **[Jagalchi](https://github.com/gajaedev/jagalchi-client)** — Developer roadmap platform with interactive flow editing and structured learning paths.
+- **[maruruuu](https://github.com/Bamdoliro/maruruuu)** — School admission platform used by 131+ real users, improved through legacy modernization and critical fixes.
+- **[syncingsh](https://github.com/bssm-oss/syncingsh)** — Real-time collaborative notepad built with Yjs, Liveblocks, and rich export features.
+
+### What I Focus On
+
+- Developer Experience (DX)
+- System design & frontend architecture
+- AI-assisted development workflows
+- Automation and orchestration
+- Open source at [BSSM-OSS](https://github.com/bssm-oss)
+
+### Where To Find Justn
  
 [Portfolio](https://justn.me) · [Blog](https://velog.io/@justn-hyeok) · [LinkedIn](https://www.linkedin.com/in/justn-hyeok/)
  
